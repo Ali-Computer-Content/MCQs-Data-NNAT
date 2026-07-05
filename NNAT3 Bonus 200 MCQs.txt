@@ -1,0 +1,200 @@
+1::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+2::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+3::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+4::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+5::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+6::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+7::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+8::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+9::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+10::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+11::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+12::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+13::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+14::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+15::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+16::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+17::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+18::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+19::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+20::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+21::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+22::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+23::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+24::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+25::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+26::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+27::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+28::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+29::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+30::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+31::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+32::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+33::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+34::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+35::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+36::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+37::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+38::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+39::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+40::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+41::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+42::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+43::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+44::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+45::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+46::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+47::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+48::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+49::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+50::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+51::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+52::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+53::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+54::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+55::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+56::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+57::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+58::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+59::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+60::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+61::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+62::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+63::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+64::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+65::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+66::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+67::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+68::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+69::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+70::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+71::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+72::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+73::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+74::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+75::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+76::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+77::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+78::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+79::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+80::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+81::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+82::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+83::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+84::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+85::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+86::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+87::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+88::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+89::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+90::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+91::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+92::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+93::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+94::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+95::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+96::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+97::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+98::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+99::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+100::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+101::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+102::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+103::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+104::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+105::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+106::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+107::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+108::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+109::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+110::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+111::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+112::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+113::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+114::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+115::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+116::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+117::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+118::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+119::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+120::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+121::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+122::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+123::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+124::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+125::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+126::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+127::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+128::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+129::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+130::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+131::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+132::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+133::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+134::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+135::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+136::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+137::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+138::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+139::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+140::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+141::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+142::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+143::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+144::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+145::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+146::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+147::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+148::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+149::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+150::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+151::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+152::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+153::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+154::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+155::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+156::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+157::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+158::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+159::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+160::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+161::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+162::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+163::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+164::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+165::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+166::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+167::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+168::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+169::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+170::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+171::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+172::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+173::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+174::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+175::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+176::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+177::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+178::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+179::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+180::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+181::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+182::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+183::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+184::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+185::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+186::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+187::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+188::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+189::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+190::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.
+191::Which shape comes next in the pattern? Circle, Square, Circle, Square, ?::Circle::Triangle::Rectangle::Oval::A::The pattern alternates between Circle and Square, so the next shape is Circle.
+192::Which number completes the pattern? 2, 4, 6, 8, ?::9::10::11::12::B::The numbers increase by 2 each time, so the next number is 10.
+193::A triangle has 3 sides. A square has 4 sides. How many sides does a pentagon have?::4::5::6::7::B::A pentagon is a five-sided polygon.
+194::Which item does not belong?::Circle::Square::Triangle::Apple::D::Apple is not a geometric shape.
+195::If all stars are shapes and all shapes are figures, what must be true?::All figures are stars::All stars are figures::No stars are figures::Shapes are stars::B::If stars are a subset of shapes and shapes are figures, then all stars are figures.
+196::Mirror image reasoning: Which letter looks the same in a vertical mirror?::F::G::A::R::C::Uppercase A has vertical symmetry.
+197::Which number is largest?::17::23::19::21::B::23 is greater than 17, 19, and 21.
+198::Complete the analogy: Circle is to Round as Square is to ?::Flat::Wide::Four-sided::Small::C::A square is characterized by having four sides.
+199::Which shape has the fewest sides?::Hexagon::Pentagon::Triangle::Square::C::A triangle has 3 sides, fewer than the others.
+200::If a pattern repeats Red, Blue, Green, Red, Blue, Green, what comes next?::Red::Blue::Green::Yellow::A::The repeating sequence starts again with Red.

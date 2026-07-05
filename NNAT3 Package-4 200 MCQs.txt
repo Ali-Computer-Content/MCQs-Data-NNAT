@@ -1,0 +1,200 @@
+1::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+2::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+3::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+4::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+5::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+6::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+7::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+8::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+9::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+10::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+11::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+12::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+13::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+14::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+15::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+16::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+17::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+18::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+19::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+20::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+21::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+22::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+23::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+24::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+25::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+26::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+27::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+28::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+29::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+30::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+31::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+32::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+33::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+34::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+35::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+36::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+37::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+38::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+39::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+40::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+41::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+42::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+43::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+44::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+45::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+46::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+47::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+48::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+49::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+50::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+51::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+52::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+53::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+54::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+55::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+56::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+57::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+58::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+59::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+60::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+61::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+62::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+63::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+64::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+65::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+66::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+67::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+68::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+69::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+70::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+71::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+72::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+73::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+74::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+75::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+76::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+77::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+78::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+79::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+80::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+81::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+82::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+83::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+84::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+85::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+86::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+87::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+88::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+89::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+90::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+91::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+92::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+93::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+94::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+95::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+96::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+97::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+98::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+99::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+100::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+101::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+102::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+103::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+104::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+105::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+106::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+107::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+108::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+109::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+110::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+111::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+112::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+113::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+114::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+115::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+116::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+117::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+118::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+119::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+120::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+121::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+122::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+123::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+124::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+125::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+126::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+127::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+128::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+129::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+130::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+131::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+132::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+133::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+134::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+135::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+136::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+137::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+138::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+139::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+140::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+141::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+142::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+143::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+144::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+145::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+146::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+147::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+148::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+149::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+150::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+151::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+152::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+153::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+154::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+155::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+156::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+157::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+158::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+159::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+160::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+161::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+162::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+163::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+164::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+165::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+166::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+167::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+168::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+169::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+170::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+171::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+172::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+173::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+174::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+175::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+176::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+177::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+178::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+179::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+180::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+181::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+182::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+183::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+184::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+185::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+186::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+187::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+188::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+189::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+190::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+191::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+192::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
+193::Matrix Pattern: 2, 4, 8, 16, ?::18::24::32::30::C::Each number doubles. 16 × 2 = 32.
+194::Shape Analogy: Triangle is to 3 sides as Pentagon is to ? sides::4::5::6::7::B::A pentagon has 5 sides.
+195::Classification: Which does not belong?::Square::Rectangle::Triangle::Apple::D::Apple is not a geometric figure.
+196::Spatial Reasoning: A cube has 6 faces. If one face is on top, how many faces remain visible from outside?::3::4::5::6::D::All 6 faces remain part of the cube's exterior.
+197::Pattern Completion: Red, Blue, Green, Red, Blue, ?::Yellow::Green::Red::Blue::B::The repeating pattern is Red, Blue, Green.
+198::Visual Logic: If all circles are shapes and all shapes are figures, then all circles are ?::Squares::Figures::Lines::Angles::B::Circles are included in the larger set of figures.
+199::Rotation Reasoning: A shape rotated 360 degrees ends in what position?::Upside down::Sideways::Original position::Mirror image::C::A full 360° rotation returns to the starting position.
+200::Matrix Pattern: 1, 3, 6, 10, ?::12::14::15::16::C::The differences are +2, +3, +4, so next is +5 giving 15.
